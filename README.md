@@ -1,1 +1,1 @@
-A Javascript Japanese verb conjugator.
+C++ Javascript Conjugator
